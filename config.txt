@@ -13,14 +13,14 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token = NjIyMTQwOTUwOTE5MTE4ODU5.XXv9ew.rrEeQ3d6ulWCYewnhHRX0ysOrNI
+token = NjI2NzI4MjI1ODU0MzI0NzM2.Xcl76w.dXhSQwasTUiTq5CLaI7PuWsSDc4
 
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner = 0
+owner = 446300199388839937
 
 
 // This sets the prefix for the bot
@@ -28,7 +28,7 @@ owner = 0
 // If you use !!, the play command will be !!play
 // If you do not set this, the prefix will be an @mention of the bot (@Botname play)
 
-prefix = "@mention"
+prefix = "m."
 
 
 // If you set this, it modifies the default game of the bot
